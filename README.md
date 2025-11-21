@@ -1,7 +1,9 @@
 UTS-Pemograman-Mobile-2
+
 Jawaban Bagian A - Teori
 
-1. Bagaimana state management dengan Cubit membantu pengelolaan transaksi dengan logika diskon dinamis (10 Poin)
+1. Bagaimana state management dengan Cubit membantu pengelolaan transaksi dengan logika diskon dinamis
+
 Cubit adalah bagian dari Flutter Bloc yang digunakan untuk state management, yaitu mengelola perubahan data dan memberitahu UI ketika data berubah. Dalam konteks aplikasi kasir dengan diskon dinamis:
 
 Cubit menyimpan state transaksi, misal daftar menu yang dipesan beserta jumlahnya.
